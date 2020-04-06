@@ -7,9 +7,9 @@
 * метрика 'accuracy'
 
 Графики метрики точности и функции потерь:
-![Accuracy](https://ibb.co/kyS975q)
-![Loss](https://ibb.co/fH9r0Hm)
+![Accuracy](https://i.ibb.co/Sx3dj5V/1.jpg)
+![Loss](https://i.ibb.co/kXJqcXY/2.jpg)
 
 Графики метрики точности и функции потерь на валидационной выборке:
-![Val Accuracy](https://ibb.co/PhdSfK1)
-![Val Loss](https://ibb.co/PWTRn23)
+![Val Accuracy](https://i.ibb.co/T8sCF6P/3.jpg)
+![Val Loss](https://i.ibb.co/SmQ28kW/4.jpg)
